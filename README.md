@@ -87,8 +87,7 @@ face_id= <string with face id to delete>
 
 
 ## Authors
-
-* **Wanderson Araujo** - [WanderAraujo](https://github.com/wanderaraujo)
+Vamsi Ravi
 
 ## License
 
