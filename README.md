@@ -20,11 +20,7 @@ The first step, create Collection in your terminal using the folow command
 aws rekognition create-collection --collection-id <your collection name>
 ```
 
-Clone this repo
 
-```
-git clone https://github.com/wanderaraujo/aws-rekognition-with-node-js.git
-```
 
 Run command to install resources 
 
