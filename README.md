@@ -1,4 +1,4 @@
-# aws-rekognition-with-node-js
+# Face Reko
 
 Simple application example, using Node Js and API Amazon Rekognition. Index new faces, delete faces and the main functionality facial recognition using photo detect.
 
